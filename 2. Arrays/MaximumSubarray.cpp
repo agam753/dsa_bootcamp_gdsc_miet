@@ -26,7 +26,7 @@ int maxSubarray(vector<int> &nums)
 
     return Maxsum;
 
-    //Brute force approach 
+    //Bruteforce approach 
     // int Maxsum = INT_MIN;
     // int n = nums.size();
 
